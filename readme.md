@@ -170,14 +170,6 @@ http://localhost:8501
 
 ---
 
-## 📌 Future Improvements
-
-* Add persistent memory (vector store)
-* Execute generated tests automatically
-* Docker-based deployment agent
-* Support multiple LLM backends
-
----
 
 ## 🏁 Conclusion
 
